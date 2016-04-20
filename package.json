@@ -1,5 +1,5 @@
 {
-  "name": "kirei-eslint",
+  "name": "eslint-config-kirei",
   "version": "0.1.0",
   "description": "an eslint config",
   "main": "index.js",
@@ -8,17 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codekirei/kirei-eslint.git"
+    "url": "git+https://github.com/codekirei/eslint-config-kirei.git"
   },
   "keywords": [
     "eslint",
+    "eslintconfig",
     "config",
     "kirei"
   ],
   "author": "Jacob Blakely (codekirei)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codekirei/kirei-eslint/issues"
+    "url": "https://github.com/codekirei/eslint-config-kirei/issues"
   },
-  "homepage": "https://github.com/codekirei/kirei-eslint#readme"
+  "homepage": "https://github.com/codekirei/eslint-config-kirei#readme",
+  "dependencies": {
+    "eslint-plugin-import": "1.5.0"
+  }
 }
