@@ -1,0 +1,11 @@
+- import es5 config
+  - rules
+  - tests
+- import es6 config
+  - rules
+  - tests
+- import react config
+  - rules
+  - tests
+- write readme
+- CI
