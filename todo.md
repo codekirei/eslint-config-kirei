@@ -9,3 +9,4 @@
   - tests
 - write readme
 - CI
+- deprecate other packages
